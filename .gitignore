@@ -1,0 +1,6 @@
+#Ignore Files
+/lib/config.yml
+
+#Ignore extensions
+.DS_Store
+.tags
